@@ -57,8 +57,8 @@
 	\endgroup
 
 		\begin{enumerate}[a]%for small alpha-characters within brackets.
-		\item Android es un sistema operativo muy curioso. Puesto que está conformado por xmls y sus componentes se las programan en Java que extienden de una propiedad que se llama Activity.
-Esto fue un gran reto para nosotros, puesto que no teníamos ni si quiera la noción de como esto trabajaba.
+		\item Android es un sistema operativo muy curioso. Trabaja con un sistema de capas que está conformado por xmls (layouts), imagenes (drawables) y demás recursos (values). Los controladores (clases) son programados en Java, y extienden de una super clase llamada Activity.
+Esto fue un gran reto para nosotros, puesto que tuvimos que estudiar un nuevo API, así como la estructura de Android.
 		\item Nuestro proyecto incluye muchas funcionalidades básicas del teléfono en el que se lo vaya a instalar. Usamos lo que es la cámara, la galería y arrastrar y soltar. En particular, esta última fue la que se nos hizo muy complicada, puesto que no solo queíamos que se arrastre una imagen, sino que también queríamos que se redimensione (zoom). Aún estamos trabajando en aquello para que quede perfecto.
 		\end{enumerate}
 	
@@ -79,11 +79,14 @@ Esto fue un gran reto para nosotros, puesto que no teníamos ni si quiera la noc
 
 		\begin{enumerate}[--]%for small alpha-characters within brackets.
 		\item Una de las experiencias o anécdotas que podemos contar, es acerca del manejo de los Layouts. Fue muy complicado trabajar con ellos. En especial cuando usabamos el drag and drop con el zoom. \newline
-\newline Como ya deberíamos saber, cuando uno agrega algo a una ventana, este tiene su orden en el eje de las z. Cada una está encima de otra. Cuando trabajamos con estos Layouts opacaban que estaba atrás y no lo podíamos seleccionar. Fue muy cómico como nos fijamos en donde estaba el error, porque empezamos a probar varias cosas y ninguna nos resultó.
-Por último, estamos pensando en ponerle las propiedades del drag a estos layouts y no a sus componentes, para que estos se muevan y dejen en libertad a los demás.
-		\item Uno de los inconvenientes que también tuvimos fue con la generación del R. El R.java, es una clase generada por android donde se inicializa sus variables contenidos en los xml. Este archivo es de suma importancia para poder correr la aplicacion y generar el apk.
-\newline Eclipse y el R, a nuestra a preciasión, no se llevan muy bien. Eclipse no lo generaba correctamente cada vez que debía y teníamos que hacer debug y muchas otras maravillas para poder generarlo.
-		\end{enumerate}
+\newline Como ya deberíamos saber, cuando se agrega algo a una ventana, este tiene su nivel de profundidad en el eje de las z. Cada una está encima de otra. Cuando trabajamos con estos Layouts, opacaban aquellos componentes que estaban en un nivel inferior, haciendo que estos no puedan ser seleccionados. Fue muy cómico como nos fijamos en donde estaba el error, porque probabamos varias veces con diferentes ideas y ninguna nos resultaba. \newline
+		\item Uno de los mayores inconvenientes que tuvimos fue con la generación del R. El R.java, es una clase generada por android donde se inicializa sus variables contenidos en los xml. Este archivo es de suma importancia para poder compilar la aplicacion y generar el apk para poder instalarlo en el dispositivo.\newline
+\newline Eclipse y el R, a nuestra apreciasión, no se llevan muy bien. Eclipse no lo generaba correctamente cada vez que debía y teníamos que hacer debug y muchas otras maravillas para poder generarlo. \newline
+		\item Decidirnos por el IDE a utilizar fue todo un reto, ya que estábamos acostumbrados a Netbeans. Al principio tuvimos varios conflictos con las versiones de los proyectos, pues nos dimos cuenta que no era lo mismo trabajar en NetBeans que en Eclipse, este último organiza sus carpetas de manera diferente. Una de las vetajas de usar Eclipse es la paleta de elementos (Palette), ya que editar layouts es mucho más fácil allí que en Netbeans. \newline
+\newline Lo negativo (muy negativo) de Eclipse al desarrollar un proyecto, es la gran cantidad de errores que puede generar, y muchas veces errores ocasionados por el mismo IDE. (R es uno de ellos, probablemente el más grande). Para ejercutar una aplicación, en ciertas ocsasiones era necesario actualizar el proyecto, y así eliminar errores. \newline
+		\item Utilizar un emulador en Eclipse puede no ser tan fácil, dependiendo del dispositivo de prueba. En nuestro caso, al principio fue fácil, ya que utilizabamos un emulador general. PEro luego, al tener el dispositivo de prueba, era necesario adaptar el emulador a nuestras necesidades. Aquí surge el error "Failed to allocate memory: 8", probablemente el segundo error más importante, luego de R. \newline
+\newline Luego de investigar mucho, y luego de muchos intentos fallidos, encontramos una página en japones, en donde explicaban como solucionar el error. El idioma no fue un problema, pues una imagen puede decir mucho, y la guía estaba muy bien ilustrada. 
+\end {enumerate}
 
 
 	\vspace{4em}
@@ -99,8 +102,10 @@ Por último, estamos pensando en ponerle las propiedades del drag a estos layout
 	\endgroup
 
 		\begin{enumerate}[1]%for small alpha-characters within brackets.
-		\item Para poder desarrollar en android, es necesario tener nociones básicas de archivos xml y saber programar en Java. 
-		\item Siempre debemos intalar todos los APIs que android nos ofrece para no tener problemas con los emuladores o con las pruebas en los teléfonos. Haciendo esto, también estamos generando una mejor aplicación con muchas más características.
+		\item Para poder desarrollar en android, es necesario tener nociones básicas de archivos xml y saber programar en Java. En general, hay que tener un buen nivel de abstracción.
+		\item Siempre debemos intalar todos los APIs que android nos ofrece para no tener problemas con los emuladores o con las pruebas en los teléfonos. Haciendo esto, también estamos generando una mejor aplicación con muchas más características
+		\item Todos los miembros del grupo deberían trabajar con el mismo IDE, para así evitar conflictos al momento de desarrollar.
+		\item Paciencia y dedicación, componentes claves para el desarrollo de un proyecto en Android.
 		\end{enumerate}
 
 
