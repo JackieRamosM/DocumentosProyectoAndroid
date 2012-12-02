@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.2)  2 DEC 2012 14:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.10)  2 DEC 2012 16:46
 entering extended mode
-**C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/ExperienciasdeDesar
+**C:/Users/Denny/Documents/GitHub/DocumentosProyectoAndroid/ExperienciasdeDesar
 rollo.tex
 
-(C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/ExperienciasdeDesarr
+(C:/Users/Denny/Documents/GitHub/DocumentosProyectoAndroid/ExperienciasdeDesarr
 ollo.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -16,9 +16,9 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\report.cls
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\size12.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -34,19 +34,19 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\babel\babel.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Lilly\Documents\Latex\tex\latex\00miktex\bblopts.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\babel\spanish.ldf
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
 Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
 
-(C:\Users\Lilly\Documents\Latex\tex\generic\babel\babel.def
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -60,22 +60,22 @@ Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
 Package babel Info: Making ' an active character on input line 657.
 ))
-(C:\Users\Lilly\Documents\Latex\tex\latex\geometry\geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\graphics\keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\oberdiek\ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\oberdiek\ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\ifxetex\ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count91
@@ -91,20 +91,20 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks16
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\geometry\geometry.cfg))
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\utf8.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -254,7 +254,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\ot1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -285,7 +285,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\base\omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -309,31 +309,31 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(C:\Users\Lilly\Documents\Latex\tex\latex\tools\enumerate.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks19
 )
-(C:\Users\Lilly\Documents\Latex\tex\latex\graphics\graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\graphics\graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\graphics\trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(C:\Users\Lilly\Documents\Latex\tex\latex\00miktex\graphics.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(C:\Users\Lilly\Documents\Latex\tex\latex\pdftex-def\pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(C:\Users\Lilly\Documents\Latex\tex\generic\oberdiek\infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(C:\Users\Lilly\Documents\Latex\tex\generic\oberdiek\ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count94
@@ -341,7 +341,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\ExperienciasdeDesarr
+(C:\Users\Denny\Documents\GitHub\DocumentosProyectoAndroid\ExperienciasdeDesarr
 ollo.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -390,7 +390,7 @@ LaTeX Font Info:    ... okay on input line 10.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Lilly\Documents\Latex\tex\context\base\supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count95
 \scratchdimen=\dimen114
@@ -435,43 +435,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
 [1
 
-{C:/Users/Lilly/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 LaTeX Warning: The counter will not be printed.
              The label is: -- on input line 80.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--84
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
 [2]
-(C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\ExperienciasdeDesarr
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+[3]
+(C:\Users\Denny\Documents\GitHub\DocumentosProyectoAndroid\ExperienciasdeDesarr
 ollo.aux) ) 
 Here is how much of TeX's memory you used:
- 2487 strings out of 494045
- 32667 string characters out of 3147178
- 95973 words of memory out of 3000000
- 5783 multiletter control sequences out of 15000+200000
+ 2492 strings out of 494045
+ 32556 string characters out of 3148386
+ 97973 words of memory out of 3000000
+ 5788 multiletter control sequences out of 15000+200000
  5755 words of font info for 21 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,4n,27p,515b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb><C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on ExperienciasdeDesarrollo.pdf (2 pages, 47347 bytes).
+ 27i,4n,27p,559b,209s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on ExperienciasdeDesarrollo.pdf (3 pages, 50808 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
