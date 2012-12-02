@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.2)  2 DEC 2012 14:18
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.2)  2 DEC 2012 14:24
 entering extended mode
 **C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/ExperienciasdeDesar
 rollo.tex
@@ -441,12 +441,17 @@ LaTeX Warning: The counter will not be printed.
              The label is: -- on input line 80.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
 
@@ -464,7 +469,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmbx1
 2.pfb><C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on ExperienciasdeDesarrollo.pdf (2 pages, 46052 bytes).
+Output written on ExperienciasdeDesarrollo.pdf (2 pages, 47347 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
