@@ -4,86 +4,45 @@
 \usepackage{multicol}
 \useoutertheme{infolines} 
 \usepackage{graphicx}
-\usetheme{boxes}
 
-\definecolor{lightblue}{rgb}{0,.5,1}
-%\beamertemplateshadingbackground{lightblue!50}{lightblue!50}
-%\setbeamercovered{transparent}
+\usetheme{Boadilla}
+\usecolortheme{crane}
+\useoutertheme{shadow}
+\useinnertheme{rectangles}
 
+\title[Comic It!]{Comic It!}
+\subtitle{Creando historietas}
+\author[Ana Arias,Liliana Ramos,Denny Schuldt]
+{Ana Arias \newline Liliana Ramos\newline Denny Schuldt}
+\institute[ESPOL]
+{
+  Escuela Superior Politécnica del Litoral
+
+}
+\date{\today}
+
+\AtBeginSection{
+\begin{frame}
+  \frametitle{Índice}
+  \tableofcontents[currentsection]   
+\end{frame}
+}
+
+\AtBeginSubsection{
+\begin{frame}
+  \frametitle{Índice}
+  \tableofcontents[currentsection,currentsubsection]
+\end{frame}
+}
 
 \begin{document}
-\usebackgroundtemplate{\includegraphics[width= \paperwidth, height=\paperheight]{imagenes/fondoazul.jpg}}
-	\begin{frame}	
-		\color{red}\textbf{\begin{center}{\Huge{¡Creando Historietas!}}\end{center}}				
-		\pause
-		\begin{center} 
-				 \includegraphics[width=0.5\textwidth]{imagenes/comicit.jpg} %Midifico el width para cambiar el tamaño%
-		\end{center}
-	\end{frame}
-\usebackgroundtemplate{\includegraphics[width= \paperwidth, height=\paperheight]{imagenes/fondoaz.jpg}}
-	\begin{frame}	 	
-		\color{red}\textbf{\begin{center}{\Huge{Autores}}\end{center}}
-		\color{black}
-		\begin{center}\huge{ 
-			\pause
-			- Ana Arias\\
-			\pause
-			- Liliana Ramos\\
-			\pause
-			- Denny Schuldt
-			
-			\pause
-		}
-			\normalsize
-			\vspace{9mm}
-			 Lenguajes de Programación
-			\\2012 - II Término			
-		\end{center}				
-	\end{frame}
 
+\frame{\titlepage}
 
-
-
-\begin{frame}	 	
-		\color{red}\textbf{\begin{center}{\Huge{¡Comiquenado!}}\end{center}}
-		\color{black}
-		\begin{center}\huge{ 
-			\pause
-			- Ana Arias\\
-			\pause
-			- Liliana Ramos\\
-			\pause
-			- Denny Schuldt
-			
-			\pause
-		}
-			\normalsize
-			\vspace{9mm}
-			 Lenguajes de Programación
-			\\2012 - II Término			
-		\end{center}				
-	\end{frame}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\begin{frame}
+  \frametitle{Índice}
+  \tableofcontents
+\end{frame}
 
 
 
