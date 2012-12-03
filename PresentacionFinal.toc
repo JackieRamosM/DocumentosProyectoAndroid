@@ -1,5 +1,6 @@
 \beamer@endinputifotherversion {3.24pt}
 \select@language {spanish}
 \beamer@sectionintoc {1}{Comiqueando!}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Descipci\IeC {\'o}n}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{Caracter\IeC {\'\i }sticas implementadas}{6}{0}{1}
+\beamer@subsectionintoc {1}{1}{Descripci\IeC {\'o}n}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Componentes}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Caracter\IeC {\'\i }sticas implementadas}{8}{0}{1}

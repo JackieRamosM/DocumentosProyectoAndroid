@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.2)  2 DEC 2012 23:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.2)  3 DEC 2012 00:02
 entering extended mode
 **C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/PresentacionFinal.t
 ex
@@ -1216,7 +1216,7 @@ c) [3
 (C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\PresentacionFinal.to
 c) [4
 
-] <imagenes/comicit.jpg, id=164, 569.12625pt x 569.12625pt>
+] <imagenes/comicit.jpg, id=174, 569.12625pt x 569.12625pt>
 File: imagenes/comicit.jpg Graphic file (type jpg)
 
 <use imagenes/comicit.jpg>
@@ -1229,89 +1229,147 @@ g>]
 (C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\PresentacionFinal.to
 c) [6
 
-] <imagenes/plantilla.png, id=227, 803.0pt x 1284.8pt>
+] <imagenes/icono1.png, id=240, 372.39125pt x 176.66pt>
+File: imagenes/icono1.png Graphic file (type png)
+
+<use imagenes/icono1.png>
+Package pdftex.def Info: imagenes/icono1.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 48.71507pt.
+
+<imagenes/icono2.png, id=242, 296.10625pt x 144.54pt>
+File: imagenes/icono2.png Graphic file (type png)
+
+<use imagenes/icono2.png>
+Package pdftex.def Info: imagenes/icono2.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 50.12659pt.
+
+<imagenes/icono3.png, id=243, 269.005pt x 183.68625pt>
+File: imagenes/icono3.png Graphic file (type png)
+
+<use imagenes/icono3.png>
+Package pdftex.def Info: imagenes/icono3.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 70.121pt.
+ <imagenes/icono4.png, id=244, 385.44pt x 54.2025pt>
+File: imagenes/icono4.png Graphic file (type png)
+
+<use imagenes/icono4.png>
+Package pdftex.def Info: imagenes/icono4.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 14.4405pt.
+ <imagenes/icono5.png, id=245, 394.47375pt x 72.27pt>
+File: imagenes/icono5.png Graphic file (type png)
+
+<use imagenes/icono5.png>
+Package pdftex.def Info: imagenes/icono5.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 18.8129pt.
+ <imagenes/icono6.png, id=246, 315.1775pt x 104.39pt>
+File: imagenes/icono6.png Graphic file (type png)
+
+<use imagenes/icono6.png>
+Package pdftex.def Info: imagenes/icono6.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 34.01234pt.
+
+<imagenes/icono7.png, id=247, 299.1175pt x 169.63374pt>
+File: imagenes/icono7.png Graphic file (type png)
+
+<use imagenes/icono7.png>
+Package pdftex.def Info: imagenes/icono7.png used on input line 92.
+(pdftex.def)             Requested size: 102.68962pt x 58.23637pt.
+ [7
+
+ <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono1.png
+> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono2.pn
+g> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono3.p
+ng> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono4.
+png> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono5
+.png> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icono
+6.png> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/icon
+o7.png>]
+(C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\PresentacionFinal.to
+c) [8
+
+] <imagenes/plantilla.png, id=319, 803.0pt x 1284.8pt>
 File: imagenes/plantilla.png Graphic file (type png)
 
 <use imagenes/plantilla.png>
-Package pdftex.def Info: imagenes/plantilla.png used on input line 88.
+Package pdftex.def Info: imagenes/plantilla.png used on input line 117.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
- <imagenes/iconos.png, id=228, 803.0pt x 1284.8pt>
+ <imagenes/iconos.png, id=320, 803.0pt x 1284.8pt>
 File: imagenes/iconos.png Graphic file (type png)
 
 <use imagenes/iconos.png>
-Package pdftex.def Info: imagenes/iconos.png used on input line 88.
+Package pdftex.def Info: imagenes/iconos.png used on input line 117.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
- <imagenes/textos.png, id=229, 803.0pt x 1284.8pt>
+ <imagenes/textos.png, id=321, 803.0pt x 1284.8pt>
 File: imagenes/textos.png Graphic file (type png)
 
 <use imagenes/textos.png>
-Package pdftex.def Info: imagenes/textos.png used on input line 88.
+Package pdftex.def Info: imagenes/textos.png used on input line 117.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
- [7
+ [9
 
  <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/plantilla.
 png> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/iconos
 .png> <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/texto
 s.png>]
-<imagenes/camaraft1.png, id=260, 803.0pt x 1284.8pt>
+<imagenes/camaraft1.png, id=352, 803.0pt x 1284.8pt>
 File: imagenes/camaraft1.png Graphic file (type png)
 
 <use imagenes/camaraft1.png>
-Package pdftex.def Info: imagenes/camaraft1.png used on input line 104.
+Package pdftex.def Info: imagenes/camaraft1.png used on input line 133.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
- [8
+ [10
 
  <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/camaraft1.
 png>]
-<imagenes/drag.png, id=290, 803.0pt x 1284.8pt>
+<imagenes/drag.png, id=383, 803.0pt x 1284.8pt>
 File: imagenes/drag.png Graphic file (type png)
  <use imagenes/drag.png>
-Package pdftex.def Info: imagenes/drag.png used on input line 124.
+Package pdftex.def Info: imagenes/drag.png used on input line 153.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
 
-[9
+[11
 
  <C:/Users/Lilly/Documents/GitHub/DocumentosProyectoAndroid/imagenes/drag.png>]
 File: imagenes/drag.png Graphic file (type png)
  <use imagenes/drag.png>
-Package pdftex.def Info: imagenes/drag.png used on input line 141.
+Package pdftex.def Info: imagenes/drag.png used on input line 170.
 (pdftex.def)             Requested size: 80.24344pt x 113.80379pt.
- [10
+ [12
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
 
 (C:\Users\Lilly\Documents\GitHub\DocumentosProyectoAndroid\PresentacionFinal.au
 x)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `PresentacionFinal.out' has not changed.
-(rerunfilecheck)             Checksum: 80FED2683680090CB6F646074B775163;424.
+(rerunfilecheck)             Checksum: 8C4739D3A89A31A3BBDE2F41C8D3F834;542.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
  ) 
 Here is how much of TeX's memory you used:
- 17686 strings out of 494045
- 320028 string characters out of 3147178
- 398721 words of memory out of 3000000
- 20546 multiletter control sequences out of 15000+200000
+ 17735 strings out of 494045
+ 321037 string characters out of 3147178
+ 398718 words of memory out of 3000000
+ 20581 multiletter control sequences out of 15000+200000
  5759 words of font info for 21 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,20n,62p,484b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:
 /Users/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/User
 s/Lilly/Documents/Latex/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on PresentacionFinal.pdf (10 pages, 2959097 bytes).
+Output written on PresentacionFinal.pdf (12 pages, 3065198 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
