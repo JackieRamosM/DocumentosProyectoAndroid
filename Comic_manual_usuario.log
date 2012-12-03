@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.11)  2 DEC 2012 22:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.11)  3 DEC 2012 00:18
 entering extended mode
 **C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/Comic_manual_us
 uario.tex
@@ -404,16 +404,19 @@ LaTeX Font Info:    ... okay on input line 10.
 \MPnumerator=\count99
 \makeMPintoPDFobject=\count100
 \everyMPtoPDFconversion=\toks21
-) <imagenes_usuario/comicit.jpg, id=1, 569.12625pt x 569.12625pt>
-File: imagenes_usuario/comicit.jpg Graphic file (type jpg)
+) <imagenes_usuario/espol.png, id=1, 301.125pt x 300.12125pt>
+File: imagenes_usuario/espol.png Graphic file (type png)
 
-<use imagenes_usuario/comicit.jpg>
-Package pdftex.def Info: imagenes_usuario/comicit.jpg used on input line 15.
-(pdftex.def)             Requested size: 85.35657pt x 113.80586pt.
-File: imagenes_usuario/comicit.jpg Graphic file (type jpg)
- <use imagenes_usuario/comicit.jpg>
-Package pdftex.def Info: imagenes_usuario/comicit.jpg used on input line 16.
-(pdftex.def)             Requested size: 113.80586pt x 113.80586pt.
+<use imagenes_usuario/espol.png>
+Package pdftex.def Info: imagenes_usuario/espol.png used on input line 15.
+(pdftex.def)             Requested size: 113.81297pt x 113.80913pt.
+
+<imagenes_usuario/android.png, id=3, 513.92pt x 513.92pt>
+File: imagenes_usuario/android.png Graphic file (type png)
+
+<use imagenes_usuario/android.png>
+Package pdftex.def Info: imagenes_usuario/android.png used on input line 16.
+(pdftex.def)             Requested size: 113.80771pt x 113.80771pt.
 
 Overfull \hbox (71.96935pt too wide) in paragraph at lines 17--20
 [][] 
@@ -429,130 +432,142 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
 [1
 
 {C:/Users/Inspirion/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/User
-s/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usuario/comicit
-.jpg>]
-Overfull \hbox (10354.23769pt too wide) in paragraph at lines 39--40
- | 
- []
-
-[2]
+s/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usuario/espol.p
+ng> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ario/android.png>]
 (C:\Users\Inspirion\Documents\GitHub\DocumentosProyectoAndroid\Comic_manual_usu
 ario.toc)
 \tf@toc=\write3
- [3
+ [2
 
 ]
 Cap\'{\i }tulo 1.
+<imagenes_usuario/comicit.jpg, id=16, 569.12625pt x 569.12625pt>
 File: imagenes_usuario/comicit.jpg Graphic file (type jpg)
+
 <use imagenes_usuario/comicit.jpg>
-Package pdftex.def Info: imagenes_usuario/comicit.jpg used on input line 64.
+Package pdftex.def Info: imagenes_usuario/comicit.jpg used on input line 39.
 (pdftex.def)             Requested size: 137.34285pt x 137.33992pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+Underfull \hbox (badness 10000) in paragraph at lines 55--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+Underfull \hbox (badness 10000) in paragraph at lines 55--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+Underfull \hbox (badness 10000) in paragraph at lines 55--65
 
  []
 
-[4
+[3
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 92--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--108
+ <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usuari
+o/comicit.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--108
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--108
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--108
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
 
  []
 
-[5]
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
+
+ []
+
+[4]
 Cap\'{\i }tulo 2.
-<imagenes_usuario/cargar.png, id=22, 803.0pt x 1284.8pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+<imagenes_usuario/cargar.png, id=23, 803.0pt x 1284.8pt>
 File: imagenes_usuario/cargar.png Graphic file (type png)
 
 <use imagenes_usuario/cargar.png>
-Package pdftex.def Info: imagenes_usuario/cargar.png used on input line 119.
+Package pdftex.def Info: imagenes_usuario/cargar.png used on input line 94.
 (pdftex.def)             Requested size: 137.34285pt x 219.74622pt.
 
-<imagenes_usuario/plantillas.png, id=23, 803.0pt x 1284.8pt>
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+<imagenes_usuario/plantillas.png, id=24, 803.0pt x 1284.8pt>
 File: imagenes_usuario/plantillas.png Graphic file (type png)
 
 <use imagenes_usuario/plantillas.png>
-Package pdftex.def Info: imagenes_usuario/plantillas.png used on input line 127
+Package pdftex.def Info: imagenes_usuario/plantillas.png used on input line 102
 .
 (pdftex.def)             Requested size: 146.5009pt x 234.39073pt.
- [6
+ [5
 
  <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usuari
 o/cargar.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 132--135
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
 
  []
 
-<imagenes_usuario/camara.png, id=27, 803.0pt x 1284.8pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+
+ []
+
+<imagenes_usuario/camara.png, id=28, 803.0pt x 1284.8pt>
 File: imagenes_usuario/camara.png Graphic file (type png)
 
 <use imagenes_usuario/camara.png>
-Package pdftex.def Info: imagenes_usuario/camara.png used on input line 138.
+Package pdftex.def Info: imagenes_usuario/camara.png used on input line 113.
 (pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<imagenes_usuario/foto.jpg, id=28, 963.6pt x 1284.8pt>
+<imagenes_usuario/foto.jpg, id=29, 963.6pt x 1284.8pt>
 File: imagenes_usuario/foto.jpg Graphic file (type jpg)
 
 <use imagenes_usuario/foto.jpg>
-Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 146.
-(pdftex.def)             Requested size: 183.11914pt x 244.15375pt.
- [7 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 121.
+(pdftex.def)             Requested size: 146.5009pt x 195.31908pt.
+ [6 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
 ario/plantillas.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAnd
 roid/imagenes_usuario/camara.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
@@ -560,10 +575,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--154
 File: imagenes_usuario/galeria.png Graphic file (type png)
 
 <use imagenes_usuario/galeria.png>
-Package pdftex.def Info: imagenes_usuario/galeria.png used on input line 156.
-(pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
+Package pdftex.def Info: imagenes_usuario/galeria.png used on input line 132.
+(pdftex.def)             Requested size: 164.81001pt x 263.69937pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
 
  []
 
@@ -571,75 +586,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 File: imagenes_usuario/crop.png Graphic file (type png)
 
 <use imagenes_usuario/crop.png>
-Package pdftex.def Info: imagenes_usuario/crop.png used on input line 165.
+Package pdftex.def Info: imagenes_usuario/crop.png used on input line 141.
 (pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
- [8 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ [7 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
 ario/foto.jpg> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/i
 magenes_usuario/galeria.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 169--171
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
 
  []
 
 File: imagenes_usuario/foto.jpg Graphic file (type jpg)
 <use imagenes_usuario/foto.jpg>
-Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 173.
+Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 149.
 (pdftex.def)             Requested size: 151.07643pt x 201.43565pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--183
-
- []
-
-<imagenes_usuario/iconos.png, id=38, 803.0pt x 1284.8pt>
+<imagenes_usuario/iconos.png, id=39, 803.0pt x 1284.8pt>
 File: imagenes_usuario/iconos.png Graphic file (type png)
 
 <use imagenes_usuario/iconos.png>
-Package pdftex.def Info: imagenes_usuario/iconos.png used on input line 186.
-(pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
- [9 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+Package pdftex.def Info: imagenes_usuario/iconos.png used on input line 160.
+(pdftex.def)             Requested size: 137.34285pt x 219.74622pt.
+ [8 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
 ario/crop.png>]
-<imagenes_usuario/texto.png, id=42, 803.0pt x 1284.8pt>
+<imagenes_usuario/texto.png, id=43, 803.0pt x 1284.8pt>
 File: imagenes_usuario/texto.png Graphic file (type png)
 
 <use imagenes_usuario/texto.png>
-Package pdftex.def Info: imagenes_usuario/texto.png used on input line 196.
+Package pdftex.def Info: imagenes_usuario/texto.png used on input line 170.
 (pdftex.def)             Requested size: 137.34285pt x 219.74622pt.
 
-<imagenes_usuario/comic.png, id=43, 803.0pt x 1284.8pt>
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+<imagenes_usuario/comic.png, id=44, 803.0pt x 1284.8pt>
 File: imagenes_usuario/comic.png Graphic file (type png)
 
 <use imagenes_usuario/comic.png>
-Package pdftex.def Info: imagenes_usuario/comic.png used on input line 208.
+Package pdftex.def Info: imagenes_usuario/comic.png used on input line 183.
 (pdftex.def)             Requested size: 137.34285pt x 219.74622pt.
- [10 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_us
-uario/iconos.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroi
-d/imagenes_usuario/texto.png>]
-<imagenes_usuario/face.png, id=47, 803.0pt x 1284.8pt>
+ [9 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ario/iconos.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid
+/imagenes_usuario/texto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+
+ []
+
+<imagenes_usuario/face.png, id=48, 803.0pt x 1284.8pt>
 File: imagenes_usuario/face.png Graphic file (type png)
 
 <use imagenes_usuario/face.png>
-Package pdftex.def Info: imagenes_usuario/face.png used on input line 219.
+Package pdftex.def Info: imagenes_usuario/face.png used on input line 195.
 (pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
- [11 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_us
+ [10 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_us
 uario/comic.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid
 /imagenes_usuario/face.png>]
 (C:\Users\Inspirion\Documents\GitHub\DocumentosProyectoAndroid\Comic_manual_usu
 ario.aux) ) 
 Here is how much of TeX's memory you used:
- 2576 strings out of 494045
- 35403 string characters out of 3142329
+ 2562 strings out of 494045
+ 35406 string characters out of 3142329
  95973 words of memory out of 3000000
- 5849 multiletter control sequences out of 15000+200000
- 8799 words of font info for 31 fonts, out of 3000000 for 9000
+ 5840 multiletter control sequences out of 15000+200000
+ 6361 words of font info for 23 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,6n,27p,613b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,27p,613b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1/publi
 c/amsfonts/cm/cmr12.pfb><C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Users/Inspirion/Documents/Nueva carpeta/fonts
-/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Comic_manual_usuario.pdf (11 pages, 4642166 bytes).
+/public/amsfonts/cm/cmr17.pfb>
+Output written on Comic_manual_usuario.pdf (10 pages, 4839715 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
