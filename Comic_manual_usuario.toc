@@ -1,3 +1,0 @@
-\select@language {spanish}
-\contentsline {part}{I\hspace {1em}Introducci\IeC {\'o}n}{3}
-\contentsline {part}{II\hspace {1em}Manual de usuario}{6}
