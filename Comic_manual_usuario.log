@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.11)  2 DEC 2012 21:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.11)  2 DEC 2012 21:52
 entering extended mode
 **C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/Comic_manual_us
 uario.tex
@@ -512,25 +512,90 @@ File: imagenes_usuario/camara.png Graphic file (type png)
 <use imagenes_usuario/camara.png>
 Package pdftex.def Info: imagenes_usuario/camara.png used on input line 133.
 (pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+<imagenes_usuario/foto.jpg, id=18, 963.6pt x 1284.8pt>
+File: imagenes_usuario/foto.jpg Graphic file (type jpg)
+
+<use imagenes_usuario/foto.jpg>
+Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 142.
+(pdftex.def)             Requested size: 183.11914pt x 244.15375pt.
  [4 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
-ario/camara.png>]
+ario/camara.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid
+/imagenes_usuario/foto.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+<imagenes_usuario/galeria.png, id=22, 803.0pt x 1284.8pt>
+File: imagenes_usuario/galeria.png Graphic file (type png)
+
+<use imagenes_usuario/galeria.png>
+Package pdftex.def Info: imagenes_usuario/galeria.png used on input line 154.
+(pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+<imagenes_usuario/crop.png, id=23, 803.0pt x 1284.8pt>
+File: imagenes_usuario/crop.png Graphic file (type png)
+
+<use imagenes_usuario/crop.png>
+Package pdftex.def Info: imagenes_usuario/crop.png used on input line 164.
+(pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
+ [5 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ario/galeria.png> <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroi
+d/imagenes_usuario/crop.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+File: imagenes_usuario/foto.jpg Graphic file (type jpg)
+<use imagenes_usuario/foto.jpg>
+Package pdftex.def Info: imagenes_usuario/foto.jpg used on input line 174.
+(pdftex.def)             Requested size: 151.07643pt x 201.43565pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+
+ []
+
+<imagenes_usuario/iconos.png, id=27, 803.0pt x 1284.8pt>
+File: imagenes_usuario/iconos.png Graphic file (type png)
+
+<use imagenes_usuario/iconos.png>
+Package pdftex.def Info: imagenes_usuario/iconos.png used on input line 188.
+(pdftex.def)             Requested size: 151.07643pt x 241.7228pt.
+ [6 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ario/iconos.png>]
+<imagenes_usuario/texto.png, id=31, 803.0pt x 1284.8pt>
+File: imagenes_usuario/texto.png Graphic file (type png)
+
+<use imagenes_usuario/texto.png>
+Package pdftex.def Info: imagenes_usuario/texto.png used on input line 199.
+(pdftex.def)             Requested size: 137.34285pt x 219.74622pt.
+ [7 <C:/Users/Inspirion/Documents/GitHub/DocumentosProyectoAndroid/imagenes_usu
+ario/texto.png>]
 (C:\Users\Inspirion\Documents\GitHub\DocumentosProyectoAndroid\Comic_manual_usu
 ario.aux) ) 
 Here is how much of TeX's memory you used:
- 2515 strings out of 494045
- 34013 string characters out of 3142329
+ 2540 strings out of 494045
+ 34678 string characters out of 3142329
  98973 words of memory out of 3000000
- 5804 multiletter control sequences out of 15000+200000
+ 5824 multiletter control sequences out of 15000+200000
  5755 words of font info for 21 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,4n,27p,402b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,27p,613b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1/publi
 c/amsfonts/cm/cmr12.pfb><C:/Users/Inspirion/Documents/Nueva carpeta/fonts/type1
 /public/amsfonts/cm/cmr8.pfb>
-Output written on Comic_manual_usuario.pdf (4 pages, 733097 bytes).
+Output written on Comic_manual_usuario.pdf (7 pages, 4080043 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
